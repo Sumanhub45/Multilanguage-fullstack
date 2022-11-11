@@ -1,0 +1,10 @@
+.myButton{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* 
+.myBut{
+    text-align: center;
+    
+} */
